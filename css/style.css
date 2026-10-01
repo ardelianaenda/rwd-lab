@@ -87,14 +87,6 @@ var(--transition-fast);
     outline-offset: 1px;
 }
 
-header nav ul li a.primary-nav__link {
-    color: red;
-}
-
-header nav ul li a.primary-nav__link:hover {
-    color: blue;
-}
-
 /* Hero Section Base */
 .hero-section {
     padding-block: var(--space-2xl);
